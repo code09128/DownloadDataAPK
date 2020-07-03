@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">downloadData</string>
+    <string name="email">Email :</string>
+    <string name="about">About</string>
+    <string name="logout">Logout</string>
+    <string name="version">Version</string>
+    <string name="author">Author</string>
+    <string name="author_name">Solinari</string>
+    <string name="author_email">hinet951159@gmail.com</string>
+    <string name="update">Update</string>
+    <string name="wait">Download latest version, please wait...</string>
+</resources>
